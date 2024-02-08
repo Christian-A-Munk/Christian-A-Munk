@@ -1,6 +1,6 @@
-### Hi everyone 👋
+### Hi everyone 🌱
 
-Teaching at a vocational school can be so cool, everything can be tried out ...
+Teaching at a vocational school can be so cool, almost everything can be tried out ... 😉
 
 <!--
 **Christian-A-Munk/Christian-A-Munk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
